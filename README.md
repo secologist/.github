@@ -1,4 +1,4 @@
-# ./SECOLOGIST
+# ./Secologist
 Renovate Legacies.
 
 * https://www.secologist.com/
